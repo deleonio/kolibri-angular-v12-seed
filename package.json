@@ -10,6 +10,10 @@
   },
   "private": true,
   "dependencies": {
+    "@public-ui/angular": "ng12",
+    "@public-ui/components": "1.1.13-rc.3",
+    "@public-ui/core": "1.1.13-rc.4",
+    "@public-ui/themes": "1.1.13-rc.3",
     "@angular/animations": "~12.2.0",
     "@angular/common": "~12.2.0",
     "@angular/compiler": "~12.2.0",
